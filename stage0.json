@@ -1,0 +1,49 @@
+{
+  "ObjectType": "ntp.Policy.List",
+  "Results": [
+    {
+      "AccountMoid": "59b27d41f11aa100012bd191",
+      "Ancestors": [],
+      "ClassId": "ntp.Policy",
+      "CreateTime": "2020-08-12T11:05:36.75Z",
+      "Description": "",
+      "DomainGroupMoid": "5b25418c7a7662743465cf3a",
+      "Enabled": true,
+      "ModTime": "2020-08-17T14:34:50.714Z",
+      "Moid": "5f33cd006275722d31eb7609",
+      "Name": "backup-ntp-policy",
+      "NtpServers": [
+        "0.pool.ntp.org"
+      ],
+      "ObjectType": "ntp.Policy",
+      "Organization": {
+        "ClassId": "mo.MoRef",
+        "Moid": "5ddeb42d6972652d3100e14a",
+        "ObjectType": "organization.Organization",
+        "link": "https://www.intersight.com/api/v1/organization/Organizations/5ddeb42d6972652d3100e14a"
+      },
+      "Owners": [
+        "59b27d41f11aa100012bd191"
+      ],
+      "PermissionResources": [
+        {
+          "ClassId": "mo.MoRef",
+          "Moid": "5ddeb42d6972652d3100e14a",
+          "ObjectType": "organization.Organization",
+          "link": "https://www.intersight.com/api/v1/organization/Organizations/5ddeb42d6972652d3100e14a"
+        }
+      ],
+      "Profiles": [
+        {
+          "ClassId": "mo.MoRef",
+          "Moid": "5f33cccf77696e2d31577b3f",
+          "ObjectType": "server.Profile",
+          "link": "https://www.intersight.com/api/v1/server/Profiles/5f33cccf77696e2d31577b3f"
+        }
+      ],
+      "SharedScope": "",
+      "Tags": [],
+      "Timezone": "Pacific/Niue"
+    }
+  ]
+}
