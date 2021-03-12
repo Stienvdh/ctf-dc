@@ -1,0 +1,12 @@
+Tenant; Timestamp; Health score; Maximum severity
+tn-infra; 2021-03-12T12:03:07.940095; 100; cleared
+tn-mgmt; 2021-03-12T12:03:08.013996; 100; cleared
+tn-common; 2021-03-12T12:03:08.072424; 100; cleared
+tn-Heroes; 2021-03-12T12:03:08.131838; 94; cleared
+tn-SnV; 2021-03-12T12:03:08.188378; 94; cleared
+tn-fando_pogi; 2021-03-12T12:03:08.258270; 100; cleared
+tn-PRODUCTION; 2021-03-12T12:03:08.312821; 100; cleared
+tn-ml_12345; 2021-03-12T12:03:08.366401; 100; cleared
+tn-BERAN; 2021-03-12T12:03:08.419365; 100; cleared
+tn-Tn_sail; 2021-03-12T12:03:08.476095; 100; cleared
+tn-ans_aut; 2021-03-12T12:03:08.537349; 94; cleared
